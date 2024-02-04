@@ -1,0 +1,12 @@
+{
+  "mods": [
+    {
+      "name": "ComboCounter",
+      "authors": "Juso, Sartick",
+      "description": "Kills are now counted towards a killstreak, awarding more XP the higher it goes !",
+      "types": ["Gameplay"],
+      "supports": ["BL2", "TPS"],
+      "latest": "1.0",
+      "versions": {
+        "[Latest Version]": "https://github.com/Sartick/bl-sdk-mods/blob/main/ComboCounter/ComboCounter.zip",
+      }
