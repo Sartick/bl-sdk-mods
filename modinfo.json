@@ -8,5 +8,5 @@
       "supports": ["BL2", "TPS"],
       "latest": "1.0",
       "versions": {
-        "[Latest Version]": "https://github.com/Sartick/bl-sdk-mods/blob/main/ComboCounter/ComboCounter.zip",
+        "1.0": "https://github.com/Sartick/bl-sdk-mods/blob/main/ComboCounter/ComboCounter.zip",
       }
